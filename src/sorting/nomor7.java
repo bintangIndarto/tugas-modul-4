@@ -68,7 +68,7 @@ public class nomor7 {
         
         
         System.out.println();
-        System.out.println("Fajar wahyu pratama");
+        System.out.println("bintang indarto");
         System.out.println("** Terimakasih **");
     }
 }

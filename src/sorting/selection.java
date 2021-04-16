@@ -34,7 +34,7 @@ public class selection {
         
         
         System.out.println();
-        System.out.println("Fajar wahyu pratama");
+        System.out.println("bintang indarto");
         System.out.println("** Terimakasih **");
     }
 }
